@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "379987485519",
+    "project_id": "abbfirebaseapp",
+    "storage_bucket": "abbfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379987485519:android:5eaa291f6dd19da6d3db3a",
+        "android_client_info": {
+          "package_name": "com.example.abbfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379987485519-cicgjoo923kg8c2lrfq1ses5hjv8op2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abbfirebaseapp",
+            "certificate_hash": "8a75722ca5ce8e61881f62861b61703c00018590"
+          }
+        },
+        {
+          "client_id": "379987485519-lmp2jhgngc5737etgv92a52j3pa4p9qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmnkB2h2BY49LjTWd8UmPIlmveCmAUQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379987485519-lmp2jhgngc5737etgv92a52j3pa4p9qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
